@@ -31,12 +31,6 @@ Persönliche Portfolio-Webseite für die Lehrstellensuche als
 
 ---
 
-## Vorschau
-
-![Portfolio Screenshot](images/portfolio.png)
-
----
-
 ## Weitere Projekte
 
 ### 🎮 TastenPanik
