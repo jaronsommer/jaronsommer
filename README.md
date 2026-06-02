@@ -1,16 +1,56 @@
-## Hi there 👋
+# Jaron Sommer – Portfolio Webseite
 
-<!--
-**jaronsommer/jaronsommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Persönliche Portfolio-Webseite für die Lehrstellensuche als
+**Informatiker EFZ Applikationsentwicklung** oder
+**Automatiker EFZ**.
 
-Here are some ideas to get you started:
+🌐 Live-Demo: https://jaronsommer.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Features
+
+* Begeisterung für claude.ai
+* Responsive Single-Page-Webseite
+* Modernes UI ohne Framework
+* Scroll-Reveal Animationen
+* Hamburger-Menü für Mobile
+* Print-Stylesheet für PDF-Export
+* SEO & OpenGraph Optimierung
+* JSON-LD strukturierte Daten
+* Accessibility mit semantischem HTML
+
+---
+
+## Technologien
+
+* HTML5
+* CSS3
+* JavaScript
+* GitHub Pages
+
+---
+
+## Vorschau
+
+![Portfolio Screenshot](images/portfolio.png)
+
+---
+
+## Weitere Projekte
+
+### 🎮 TastenPanik
+
+Tipp-Spiel mit mehreren Schwierigkeitsstufen.
+
+### 🐆 Weisser Leopard
+
+Interaktive Buchprojekt-Webseite mit automatischer Bewertungsberechnung.
+
+---
+
+## Entwicklung
+
+Die Webseite wurde ohne Framework entwickelt, um die Grundlagen von HTML, CSS und JavaScript besser zu verstehen.
+
+Alle Inhalte, Designs und Anpassungen wurden von mir selbst mit starker unterstützung von claude.ai umgesetzt.
